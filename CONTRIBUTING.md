@@ -1,4 +1,4 @@
-# Contributing to the template-ansible
+# Contributing to the nginx-proxy-manager docker-compose
 
 Testers welcome!
 
